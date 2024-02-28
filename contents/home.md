@@ -1,7 +1,7 @@
 ### About me
 
 I am a PhD student in machine learning at Aarhus University under the supervision of Chris Schwiegelshohn (along with help from Davide Mottin and Ira Assent).
-My interests are in understanding how information is represented in high-dimensional spaces. To this end, I study:
+My research revolves around understanding how information is represented in high-dimensional spaces. To this end, I study:
 - Clustering
 - Dimensionality Reduction
 - Deep Learning (specifically contrastive and self-supervised learning)
