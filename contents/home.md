@@ -12,7 +12,7 @@ Currently under the supervision of Chris Schwiegelshohn, along with help from Da
 draganovandrew (at) cs.au.dk
 
 #### Past Education and Experience
-Aug 2021 - Aug 2024 (Expected). PhD Student at Aarhus University Computer Science.
+Aug 2021 - Aug 2024 (Expected). PhD Student at Aarhus University in Computer Science.
 
 Sept. 2019 - June 2021. Masters in mathematics at George Mason University (night classes).
 
