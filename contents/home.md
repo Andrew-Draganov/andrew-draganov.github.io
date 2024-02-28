@@ -20,6 +20,7 @@ Generally speaking, I like to make theoretical insights practical and make pract
 Aug 2021 - Aug 2024 (Expected). PhD Student at Aarhus University in Computer Science.
 
 Sept. 2019 - June 2021. Masters in mathematics at George Mason University (night classes).
+    - Supervised by Tyrus Berry.
 
 July 2017 - June 2021. AI research engineer at Expedition Technology.
 
