@@ -1,6 +1,7 @@
 ### About me
 
-I am a PhD student in machine learning interested in understanding what it means to represent information as points in high-dimensional space. To this end, I study:
+I am a PhD student in machine learning at Aarhus University under the supervision of Chris Schwiegelshohn (along with help from Davide Mottin and Ira Assent).
+My interests are in understanding how information is represented in high-dimensional spaces. To this end, I study:
 - Clustering
 - Dimensionality Reduction
 - Deep Learning (specifically contrastive and self-supervised learning)
@@ -9,11 +10,9 @@ Generally speaking, I like to make theoretical insights practical and make pract
 
 ### Other Things
 
-Currently under the supervision of Chris Schwiegelshohn, along with help from Davide Mottin and Ira Assent.
-
-Separately, I have a passion for teaching and for making technical concepts approachable.
-
-If you'd like to reach out, my email is draganovandrew (at) cs.au.dk .
+- I am originally from Washington DC which, despite what my European friends may expect, is the loveliest city in the world.
+- I have a passion for teaching and for making technical concepts approachable.
+- If you'd like to reach out, my email is draganovandrew (at) cs.au.dk .
 
 ### Past Education and Experience
 
