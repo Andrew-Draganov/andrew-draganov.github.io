@@ -11,9 +11,8 @@ Generally speaking, I like to make theoretical insights practical and make pract
 ### Other Things
 
 - I am originally from Washington DC which, despite what my European friends may expect, is the loveliest city in the world.
-- I have a passion for teaching and for making technical concepts approachable.
-- If you'd like to reach out, my email is draganovandrew (at) cs.au.dk
-    - Warning -- I am a big believer in smiley faces in emails.
+- I really enjoy teaching and for making technical concepts approachable.
+- My **email** is draganovandrew (at) cs.au.dk -- feel free to reach out about anything
 
 ### Past Education and Experience
 
