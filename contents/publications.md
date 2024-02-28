@@ -1,14 +1,13 @@
 ## 2024
 
-- *Draganov, A.*, Saulpic, D., Schwiegelshohn, C. Settling Time vs. Accuracy Trade-offs For Clustering Big Data. SIGMOD 2024.
-- *Draganov, A.*, Saulpic, D., Schwiegelshohn, C. Settling Time vs. Accuracy Trade-offs For Clustering Big Data. SIGMOD 2024.
+- **Draganov, A.**; Saulpic, D.; Schwiegelshohn, C. Settling Time vs. Accuracy Trade-offs For Clustering Big Data. SIGMOD 2024.
+- Beer, A.; Palotás, O.; Maldonado, A.; **Draganov, A.**; Assent, I. DROPP: Structure-aware PCA for Ordered Data - A General Method and its Applications in Climate Research and Molecular Dynamics. ICDE 2024.
+
 
 ## 2023
 
-- *Cao, A., Yang, X., Wang, C., <strong><strong>Li, S.</strong></strong>, Liu, Y., Dou, L. & Niu, Q. (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- *Cao, A., Liu, Y., Yang, X., <strong><strong>Li, S.</strong></strong>, Wang, C., Bai, X. & Liu, Y. (2022). Physical index and Data Fusion-Driven method for coal burst prediction in time sequence. Journal of China Coal Society.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- *Yang, X., Yu, X., Zhang, C., <strong><strong>Li, S.</strong></strong>, & Niu, Q. (2021). MineGPS: battery-free localization base station for coal mine environment. IEEE Communications Letters.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9433550)
+- **Draganov, A.**; Jørgensen, J. R.; Nellemann, K. S.; Mottin, D.; Assent, I.; Berry, T.; Aslay, C. ActUp: Analyzing and Consolidating tSNE and UMAP. IJCAI 2023.
+- Beer, A.; **Draganov, A.**; Hohma, E.; Jahn, P.; Frey, C. M.; Assent, I. Connecting the Dots--Density-Connectivity Distance unifies DBSCAN, k-Center and Spectral Clustering. KDD 2023.
+- Moradan, A.; **Draganov, A.**; Mottin, D.; Assent, I; Ucode: Unified community detection with graph convolutional networks. [Machine Learning](https://link.springer.com/journal/10994).
 
 ## 2021
