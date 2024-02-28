@@ -1,12 +1,12 @@
 
-PhD student in machine learning.
-
-I am interested in understanding what it means to represent information as points in high-dimensional space. To this end, I study:
+I am a PhD student in machine learning. My research is aimed at understanding what it means to represent information as points in high-dimensional space. To this end, I study:
 - Clustering
 - Dimensionality Reduction
 - Deep Learning (specifically contrastive and self-supervised learning)
 
 I like to make theoretical insights practical and make practical algorithms have theoretical substance.
+
+Currently under the supervision of Chris Schwiegelshohn, along with help from Davide Mottin and Ira Assent.
 
 #### Email
 draganovandrew (at) cs.au.dk

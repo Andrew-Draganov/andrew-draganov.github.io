@@ -1,1 +1,0 @@
-- Finalist in 3 Minute Thesis competition, 2023.
