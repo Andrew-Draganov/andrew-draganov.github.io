@@ -1,13 +1,19 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+PhD student in machine learning.
+
+I am interested in understanding what it means to represent information as points in high-dimensional space. To this end, I study:
+- Clustering
+- Dimensionality Reduction
+- Deep Learning (Specifically contrastive and self-supervised learning)
+
+I like to make theoretical insights practical and make practical algorithms have theoretical substance.
 
 #### Email
-sli[at]cumt.edu.cn
+draganovandrew (at) cs.au.dk
 
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+#### Past Education and Experience
+Aug 2021 - Present, PhD Student at Aarhus University Computer Science
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+Sept. 2019 - June 2021, Masters in mathematics at George Mason University (night classes)
 
-#### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+July 2017 - June 2021, AI research engineer at Expedition Tech.
