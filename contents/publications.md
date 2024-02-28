@@ -11,3 +11,9 @@
 - Moradan, A.; **Draganov, A.**; Mottin, D.; Assent, I; Ucode: Unified community detection with graph convolutional networks. [Machine Learning](https://link.springer.com/journal/10994).
 
 ## 2021
+
+- Brown, C. N.; Mattei, E.; **Draganov, A**. ChaRRNets: Channel robust representation networks for RF fingerprinting.
+
+## 2019
+
+- Mattei, E.; Dalton, C.; **Draganov, A.**; Marin, B.; Tinston, M.; Harrison, G.; Harlacher, M. Feature learning for enhanced security in the Internet of Things. GlobalSIP 2019.
