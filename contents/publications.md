@@ -1,5 +1,6 @@
 ## 2024
 
+- **Draganov**, Jørgensen. *Optimal Center-Based Clustering in Ultrametrics*. Manuscript.
 - **Draganov**, Saulpic, Schwiegelshohn. *Settling Time vs. Accuracy Trade-offs For Clustering Big Data*. SIGMOD 2024.
 - Beer, Palotás, Maldonado, **Draganov,** Assent. *DROPP: Structure-aware PCA for Ordered Data*. ICDE 2024.
 
