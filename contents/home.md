@@ -1,7 +1,6 @@
-I am a postdoc in data analysis and machine learning at Aarhus University under the supervision of Chris Schwiegelshohn. I completed my PhD at Aarhus University in Fall 2024, supervised by Cigdem Aslay and Chris Schwiegelshohn (with help from Ira Assent and Davide Mottin).
+I am a postdoc in data analysis and machine learning at Aarhus University under Chris Schwiegelshohn. I completed my PhD at Aarhus University in Fall 2024, supervised by Cigdem Aslay and Chris Schwiegelshohn (with help from Ira Assent and Davide Mottin).
 
-My research revolves around understanding how information is represented in high-dimensional spaces. I am particularly interested in applying this to understand
-how AI models store and process information. To this end, I study:
+My research revolves around understanding how information is represented in high-dimensional spaces. I am particularly interested in applying this to understand how AI models store and process information. To this end, I study:
 - Neural Network Interpretability
 - Dimensionality Reduction
 - Clustering
