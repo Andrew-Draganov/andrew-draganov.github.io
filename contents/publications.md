@@ -3,6 +3,8 @@
 - Cohen-Addad, **Draganov**, Russo, Schwiegelshohn. *A Tight VC-Dimension Analysis of Clustering Coresets with Applications*. SODA 2025.
 - **Draganov**, Vadgama, Damrich, Böhm, Maes, Kobak, Bekkers. *On the Importance of Embedding Norms in Self-Supervised Learning*.
   [Pre-print](https://arxiv.org/pdf/2502.09252)
+- **Draganov**, Weber, Jørgensen, Beer, Plant, Assent. *I Want 'Em All (At Once) -- Ultrametric Cluster Hierarchies*.
+  [Pre-print](https://arxiv.org/pdf/2502.14018)
 
 ## 2024
 
