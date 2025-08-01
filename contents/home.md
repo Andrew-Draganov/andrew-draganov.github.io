@@ -1,9 +1,9 @@
-I am an ML researcher studying how models represent information. I am also broadly interested in all aspects of AI security/safety and try to have reasonably informed opinions on this topic.
-
-My technical research is about how information is represented in high-dimensional spaces. I am particularly interested in how AI models store and process information. To this end, I have studied:
+I am an ML researcher studying how models represent information in high dimensional spaces. To this end, I have studied:
 - Neural Network Interpretability
 - Dimensionality Reduction
 - Clustering
+
+I am also broadly interested in all aspects of AI security/safety and am looking into extensions of my work towards these topics.
 
 ### Other Things
 
