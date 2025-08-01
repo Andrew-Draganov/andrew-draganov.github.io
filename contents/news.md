@@ -1,6 +1,11 @@
+## 2025
+- July 2025: Started a 3-month research fellowship in LASR labs in London.
+- July 2025: Our paper "On the Importance of Embedding Norms in Self-Supervised Learning" was presented at ICML.
+- March 2025: Began work as a postdoc in Juelich research center.
+
 ## 2024
 
-- Defended my PhD Thesis on Nov. 4th. Yay! Now working as a postdoc at Aarhus University under Chris Schwiegelshohn.
+- Defended my PhD Thesis on Nov. 4th. Yay!
 
 ## 2023
 
