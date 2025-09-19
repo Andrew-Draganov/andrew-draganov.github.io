@@ -1,14 +1,13 @@
 ## 2025
 
-- Cohen-Addad, Draganov, Russo, Schwiegelshohn. *A Tight VC-Dimension Analysis of Clustering Coresets with Applications*. SODA 2025.
+- Draganov, Weber, Jørgensen, Beer, Plant, Assent. *I Want 'Em All (At Once) -- Ultrametric Cluster Hierarchies*. To appear in NeurIPS 2025.
 - Draganov, Vadgama, Damrich, Böhm, Maes, Kobak, Bekkers. *On the Importance of Embedding Norms in Self-Supervised Learning*. ICML 2025.
-- Draganov, Weber, Jørgensen, Beer, Plant, Assent. *I Want 'Em All (At Once) -- Ultrametric Cluster Hierarchies*.
-  [Pre-print](https://arxiv.org/pdf/2502.14018)
+- Cohen-Addad, Draganov, Russo, Schwiegelshohn. *A Tight VC-Dimension Analysis of Clustering Coresets with Applications*. SODA 2025.
 
 ## 2024
 
 - Draganov, Saulpic, Schwiegelshohn. *Settling Time vs. Accuracy Trade-offs For Clustering Big Data*. SIGMOD 2024.
-- Beer, Palotás, Maldonado, **Draganov,** Assent. *DROPP: Structure-aware PCA for Ordered Data*. ICDE 2024.
+- Beer, Palotás, Maldonado, Draganov, Assent. *DROPP: Structure-aware PCA for Ordered Data*. ICDE 2024.
 
 ## 2023
 
