@@ -3,7 +3,7 @@ I am an ML researcher studying how models represent information in high dimensio
 - Dimensionality Reduction
 - Clustering
 
-I am also broadly interested in all aspects of AI security/safety and am looking into extensions of my work towards these topics.
+I am also broadly interested in all aspects of AI security/safety and am working more and more on these topics.
 
 ### Other Things
 
@@ -13,7 +13,7 @@ I am also broadly interested in all aspects of AI security/safety and am looking
 
 ### Past Education and Experience
 
-Current. Fellow at LASR Labs.
+Current. Team lead at LASR Labs. Studying red-team/blue-team balance for data poisoning attacks in frontier-lab contexts.
 
 Sept. 2024 - June 2025. Postdoc. First at Aarhus University under Chris Schwiegelshohn, then in Juelich Research Center under Hanno Scharr.
 
