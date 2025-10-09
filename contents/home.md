@@ -3,13 +3,12 @@ I am an ML researcher studying how models represent information in high dimensio
 - Dimensionality Reduction
 - Clustering
 
-I am also broadly interested in all aspects of AI security/safety and am working more and more on these topics.
+I am also broadly interested in all aspects of AI security/safety and am working ever more on these topics.
 
 ### Other Things
 
 - I am originally from Washington DC which, despite what my European friends may expect, is the loveliest city in the world.
-- I am trying to contribute to effective AI communication.
-- My email is draganovandrew (at) cs.au.dk -- feel free to reach out about anything
+- My email is draganovandrew (at) gmail.com -- feel free to reach out about anything
 
 ### Past Education and Experience
 
