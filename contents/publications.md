@@ -1,5 +1,6 @@
 ## 2025
 
+- Böhm, Keute, Guzmán, Damrich, Draganov, Kobak . *Node Embeddings via Neighbor Embeddings*. To appear in TMLR.
 - Draganov, Weber, Jørgensen, Beer, Plant, Assent. *I Want 'Em All (At Once) -- Ultrametric Cluster Hierarchies*. To appear in NeurIPS 2025.
 - Draganov, Vadgama, Damrich, Böhm, Maes, Kobak, Bekkers. *On the Importance of Embedding Norms in Self-Supervised Learning*. ICML 2025.
 - Cohen-Addad, Draganov, Russo, Schwiegelshohn. *A Tight VC-Dimension Analysis of Clustering Coresets with Applications*. SODA 2025.
